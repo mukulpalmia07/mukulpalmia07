@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="300" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulpalmia07&label=Profile%20views&color=0e75b6&style=flat" alt="mukulpalmia07" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
-- 📫 How to reach me **mukulpalmia0720@gmail.com**
+- 📫 How to reach me **mukulpalmia@gmail.com**
 
 - ⚡ Fun fact **I'm Funny**
 
